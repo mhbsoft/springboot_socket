@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: helloworld3
+  ai:
+    openai:
+      api-key: sk-ws-H.YHMDXPP.EjQ4.MEUCIEtc8xDdJ079YwCfY6XjiEEYtRpIk4ecQJjtTnIOx36xAiEAwS_W1Rc52hKGMw2aHXxfIH84XRAAyY7rcCOyTre4Mfw
+      base-url: https://llm-krsgtjjqys62lhhh.cn-beijing.maas.aliyuncs.com/compatible-mode
+      chat:
+        options:
+          model: qwen3.8-max
